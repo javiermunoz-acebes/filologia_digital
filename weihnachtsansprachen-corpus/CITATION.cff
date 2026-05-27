@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it using the metadata below."
+title: "Weihnachtsansprachen-Korpus"
+version: 0.1.0
+date-released: "2026-05-27"
+doi: 10.5281/zenodo.20417657
+url: "https://github.com/javiermunoz-acebes/filologia_digital/tree/main/weihnachtsansprachen-corpus"
+repository-code: "https://github.com/javiermunoz-acebes/filologia_digital"
+license: CC-BY-4.0
+type: dataset
+keywords:
+  - corpus linguistics
+  - digital humanities
+  - German philology
+  - Christmas addresses
+  - Weihnachtsansprachen
+  - stylometry
+  - Konrad Adenauer
+authors:
+  - family-names: "Muñoz-Acebes"
+    given-names: "Francisco Javier"
+    orcid: "https://orcid.org/0000-0001-6527-203X"
+    affiliation: "Universidad de Valladolid, Departamento de Filología Francesa y Alemana"
+abstract: >-
+  Plain-text corpus of German federal Christmas addresses (Weihnachtsansprachen)
+  compiled for digital philological and computational text analysis. The initial
+  release (v0.1.0) covers the addresses delivered by Konrad Adenauer as
+  Bundeskanzler between 1949 and 1962 (14 texts). Files are encoded in UTF-8
+  with preserved original orthography. The corpus is designed for incremental
+  expansion across additional speakers and periods.
