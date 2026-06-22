@@ -1,6 +1,6 @@
 # Filología Digital
 
-Repositorio personal para explorar proyectos diversos de **filología** digital y humanidades digitales, con especial atención a corpus lingüísticos, edición digital de textos y análisis computacional de literatura en alemán y otras lenguas.
+Repositorio personal para explorar proyectos diversos de filología digital y humanidades digitales, con especial atención a corpus lingüísticos, edición digital de textos y análisis computacional de literatura en alemán y otras lenguas.
 
 ## Objetivos del repositorio
 
