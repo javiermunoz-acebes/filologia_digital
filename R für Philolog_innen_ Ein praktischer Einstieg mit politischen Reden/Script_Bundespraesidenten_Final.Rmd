@@ -547,7 +547,7 @@ Nun entfernen wir sogenannte Stopwörter (sehr häufige Wörter mit wenig
 lexikalischem Gehalt):
 
 ```{r}
-stop_de <- tibble(wort = stopwords("de"))
+stop_de <- tibble(wort = c(stopwords("de"), "dafür", "darüber"))
 
 df_tokens_clean <- df_tokens |>
   anti_join(stop_de, by = c("wort")) |>
